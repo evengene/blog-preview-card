@@ -107,6 +107,11 @@ body {
     transition: color 0.2s ease-in-out;
 }
 
+.title a {
+    color: #111;
+    text-decoration: none;
+}
+
 .title:hover {
     color: #F4D04E;
 }
